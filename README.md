@@ -1,3 +1,11 @@
+# Creating a MERN stack Todo app 
+1. React Frontend using Bootstrap styling, EsLint and Prettier
+2. JEST testing setup for React
+3. set up of a localStorage or SQLLite DB to practice
+4. Redux (?) state management
+5. Node, Express and MongoDB work
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
